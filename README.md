@@ -48,6 +48,7 @@ also Playbook APIs, and integrations with other interesting pieces of software.
 Blogs & Articles
 ================
 
+* [Flask/WSGI Application Deployment with Ubuntu, Ansible, Nginx, Supervisor and uWSGI](http://mattupstate.github.com/python/devops/2012/08/07/flask-wsgi-application-deployment-with-ubuntu-ansible-nginx-supervisor-and-uwsgi.html)
 * [HighScalability.com](http://highscalability.com/blog/2012/4/18/ansible-a-simple-model-driven-configuration-management-and-c.html) - mpdehaan
 * [ColoAndCloud.com interview](http://www.coloandcloud.com/editorial/an-interview-with-ansible-author-michael-dehaan/) - mpdehaan
 * [dzone](http://server.dzone.com/articles/ansible-cm-deployment-and-ad) - Mitch Pronschinske
